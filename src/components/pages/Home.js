@@ -115,23 +115,6 @@ function Home() {
         </Marker>
       </MapContainer>
     </div>
-    // <html>
-    //   <head>
-    //     <title>Add Map</title>
-
-    //     <link rel="stylesheet" type="text/css" href="./styles/home.css" />
-    //     <script src="./script.js"></script>
-    //   </head>
-    //   <body>
-    //     <h3>My Google Maps Demo</h3>
-    //     <div id="map"></div>
-
-    //     <script
-    //       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBxYva8cX6TCoksWcfRV84r5DakeB62Xtw&callback=initMap&libraries=&v=weekly"
-    //       async
-    //     ></script>
-    //   </body>
-    // </html>
   );
 }
 
