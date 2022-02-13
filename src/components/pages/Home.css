@@ -1,0 +1,18 @@
+#homepage {
+  background-color: #7395ae;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+#home-title {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}

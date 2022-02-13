@@ -1,0 +1,17 @@
+#food-page {
+  background-color: #7395ae;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+#map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+#food-list {
+  text-align: center;
+}
